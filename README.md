@@ -2,4 +2,4 @@ Learning API Design
 
 Sources:
 
-- TO DO
+- [Zalando RESTful API and Event Guidelines](https://opensource.zalando.com/restful-api-guidelines/)
