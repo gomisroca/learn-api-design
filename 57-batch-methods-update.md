@@ -9,9 +9,9 @@
 
 ### Atomic vs. Partial Success
 
-- The batch create **may** support atomic or partial success.
-- Synchronous batch create **must** be atomic.
-- Asynchronous batch create **may** be atomic or partial success.
+- The batch update **may** support atomic or partial success.
+- Synchronous batch update **must** be atomic.
+- Asynchronous batch update **may** be atomic or partial success.
 
 ### Request Message
 
